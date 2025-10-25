@@ -1,0 +1,7 @@
+aioquic>=0.9.20
+cryptography>=3.4.7
+aiohttp>=3.8.1
+asyncio>=3.4.3
+scapy>=2.4.5
+pytest>=7.0.1
+pylint>=2.12.2
